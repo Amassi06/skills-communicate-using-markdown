@@ -2,5 +2,5 @@
 ## C
 ## C#
 ## C++
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of CR7](https://pbs.twimg.com/media/FZGxEqlXEAUTgoc?format=jpg&name=4096x4096)
 
